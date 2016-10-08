@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8555ca6a070ee13282359c46dcf138c8b043f34c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac958f3ae8dea1ae59fe1d5b6a4e5ec8d60dd6f7">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01b331f77d76de4743c5175bae4d9fb0b3302015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_dd1dbcb9fae3024678de6484f342228c21402e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7b3f45407950649db19d278ff01dfb3b20be0e8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_8be92e2077c140998e3e3d5d560f770bc11b87b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_5e1f9c109d2b864f08168bcdeed1cfa1a8024275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_feec829d8afc9dd5102259bd0d85a1275592e3a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a879d58303a7f4f1b29f68b7a2dff3cff847cb05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_53723baecbe1b1f7b35dbbfc58082a8f34d287af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_ee628d5786bf4c68f583b569c40e74209f9fe59b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9a6927fdd6aa5c8310e2661457a104727a4de446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3ee9341db493945c5eccf2cce894a49cee43ec3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2b130dc7407f14eeded4822a33af5e0f5986b90b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.16.1_69e2c458479bb487df4a869a7150a60e721a870f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_439b56ff09b977186b31839e90263c60c7ace2b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_09e1b7f15591059dcb56c9e778655bd15b001189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8ea3bfa52488e81c04f20f7b7cab30c93e945739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_5d4998f40f756e55753151a61ac44748ee729a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_48ae0b99fb9497ddefdef98530bb2e84aaa8ed6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8abdbce29e8638244bce5015aaf86d84ffdc6183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_fe8525406abd536f3aaa02382fb3d777aff210b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a9b062214b896a7f024d95c6058b524dc5834c89">
+        <dex dex="/Users/caffeineLabs/Downloads/Respaldo/LogInFacebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f224e9723c673c134bb70f60b7ccdbbf19ccc725/classes.dex" />
+    </item>
+
+</items>
